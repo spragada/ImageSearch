@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_goback">Go Back</string>
+    <string name="edit_text_search_hint">Enter image search</string>
+    <string name="button_search">Search</string>
+    <string name="text_search_options">Advanced search options</string>
+    <string name="text_image_size">Image Size</string>
+    <string name="text_color_filter">Color Filter</string>
+    <string name="text_image_type">Image Type</string>
+    <string name="text_site_filter">Site filter</string>
+    <string name="edit_text_site_filter_hint">Enter site filter</string>
+    <string name="button_save">Save</string>
+    <string name="title_activity_search_options">SearchOptionsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="image_size_options">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="image_color_options">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+    </string-array>
+    
+    <string-array name="image_type_options">
+        <item>Faces</item>
+        <item>Photo</item>
+        <item>Clip Art</item>
+    </string-array>
+</resources>
